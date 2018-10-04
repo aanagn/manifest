@@ -10,6 +10,6 @@
            sync-c="true"
 	   sync-j="4" />
            
-  <project name="aanagn/myrepo" path="myfirstrepo" remote="github" revision="master" />
+  <project name="aanagn/myrepo" path="myfirstrepo"/>
            
 </manifest>
