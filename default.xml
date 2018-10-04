@@ -11,5 +11,6 @@
            
   <project name="aanagn/myrepo" path="myfirstrepo"/>
   <project name="aanagn/Custom-Object-Detection" path="object_detection_walnut" />
+  <project name="aanagn/resizing_scripts" path="resizing_scripts" />
            
 </manifest>
