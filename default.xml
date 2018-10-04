@@ -10,5 +10,6 @@
 	   sync-j="4" />
            
   <project name="aanagn/myrepo" path="myfirstrepo"/>
+  <project name="aanagn/Custom-Object-Detection" path="object_detection_walnut" />
            
 </manifest>
